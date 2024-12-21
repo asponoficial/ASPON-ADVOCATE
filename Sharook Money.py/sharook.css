@@ -1,0 +1,31 @@
+    /* style.css */
+    body{
+        font-family:sans-serif;
+    }
+
+    #media-container {
+        margin-bottom: 20px;
+    }
+
+    #media-list {
+        display:flex;
+        flex-wrap;
+    }
+
+    .media-item{
+        margin: 10px;
+        border: 1px solid #ccc;
+        padding: 10px;
+    }
+
+    .media-item img {
+        max-width: 200px
+    }
+
+    #chart-container {
+        margin-bottom: 20px;
+    }
+
+#user-actions {
+    text-align: center;
+}
